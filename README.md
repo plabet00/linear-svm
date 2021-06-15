@@ -6,7 +6,7 @@ The implemented algorithm shows an accuracy of about 88% in guessing if a patien
 
 ## Requirements
 
--numpy
--pandas
--statsmodels
+-numpy\
+-pandas\
+-statsmodels\
 -sklearn(only for data manipulation)
